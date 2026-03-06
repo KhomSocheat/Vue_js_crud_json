@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "+1234567890",
+      "address": "123 Main Street, New York, NY 10001",
+      "dateOfBirth": "1990-03-15",
+      "age": 34
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "+1234567891",
+      "address": "456 Oak Avenue, Los Angeles, CA 90001",
+      "dateOfBirth": "1985-07-22",
+      "age": 39
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com",
+      "phone": "+1234567892",
+      "address": "789 Pine Road, Chicago, IL 60601",
+      "dateOfBirth": "1992-11-08",
+      "age": 32
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "phone": "+1234567893",
+      "address": "321 Elm Street, Houston, TX 77001",
+      "dateOfBirth": "1988-05-30",
+      "age": 36
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "email": "david.wilson@example.com",
+      "phone": "+1234567894",
+      "address": "654 Maple Drive, Phoenix, AZ 85001",
+      "dateOfBirth": "1995-09-12",
+      "age": 29
+    },
+    {
+      "id": 6,
+      "name": "Sarah Brown",
+      "email": "sarah.brown@example.com",
+      "phone": "+1234567895",
+      "address": "987 Cedar Lane, Philadelphia, PA 19101",
+      "dateOfBirth": "1993-02-18",
+      "age": 31
+    },
+    {
+      "id": 7,
+      "name": "James Martinez",
+      "email": "james.martinez@example.com",
+      "phone": "+1234567896",
+      "address": "147 Birch Boulevard, San Antonio, TX 78201",
+      "dateOfBirth": "1987-12-25",
+      "age": 37
+    },
+    {
+      "id": 8,
+      "name": "Lisa Anderson",
+      "email": "lisa.anderson@example.com",
+      "phone": "+1234567897",
+      "address": "258 Spruce Court, San Diego, CA 92101",
+      "dateOfBirth": "1991-06-14",
+      "age": 33
+    },
+    {
+      "id": 9,
+      "name": "Robert Taylor",
+      "email": "robert.taylor@example.com",
+      "phone": "+1234567898",
+      "address": "369 Willow Way, Dallas, TX 75201",
+      "dateOfBirth": "1989-10-03",
+      "age": 35
+    },
+    {
+      "id": 10,
+      "name": "Jennifer Thomas",
+      "email": "jennifer.thomas@example.com",
+      "phone": "+1234567899",
+      "address": "741 Ash Place, San Jose, CA 95101",
+      "dateOfBirth": "1994-04-27",
+      "age": 30
+    }
+  ]
+}
